@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="txtName">Trevor</string>
+    <string name="txtBtnProfile">View Profile</string>
+    <string name ="txtProfileInformation">Trevor is 24 years old and grew up in Crystal Lake, Illinois. He graduated in 2013 from Crystal Lake South High School, and then completed his BS in System Engineering and Design from the University of Illinois in 2017. He currently works as an engineer.</string>
+</resources>
